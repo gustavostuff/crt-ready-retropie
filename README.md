@@ -39,3 +39,5 @@ And that's it, you are all set to start adding games, configuring joysticks, etc
 * After rebooting, a modified version of the [240p Honey](https://github.com/PietDAmore/240p-Theme) theme will be set and some test suite roms will be available
 * For this setup, NTSC progressive is always used both in games and EmulationStation
 * This is for composite video only so, while the quality increases a lot compared to the default looks, don't expect something identical to original hardware (black purity and color palettes may vary, for instance)
+
+If you can afford something more expensive and want a much better experience, please check [this](https://www.rgb-pi.com/) out, there's probably nothing better for emulation in CRTs, at least at the time I'm writing this.
