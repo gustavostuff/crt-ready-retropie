@@ -23,6 +23,12 @@ With crt-ready-retropie:
 sudo wget https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/initial-setup.sh && sudo chmod +x initial-setup.sh && ./initial-setup.sh
 ```
 
+After rebooting, login again into the system and do:
+
+* ```sudo ~/RetroPie-Setup/retropie_setup.sh```
+* Go to "Configuration/Tools > resetromdirs" and run it
+* Choose "Perform Reboot" from the menu to reboot your Pi
+
 And that's it, you are all set to start adding games, configuring joysticks, etc.
 
 
