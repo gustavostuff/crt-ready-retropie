@@ -2,7 +2,7 @@
 
 [![Version](http://img.shields.io/:beta-0.0.1-green.svg)](https://github.com/tavuntu/crt-ready-retropie)
 
-By default, emulated games (specially the ones in 2D) look bad when running on Retropie in a CRT TV. By using this setup, you'll be able to make some improvements  and have a much closer feeling to the orignal hardware. This project is based in [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
+By default, emulated games (specially the ones in 2D) look bad when running on Retropie in a CRT TV. By using this setup, you'll be able to make some improvements  and have a much closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
 
 Here you have some pictures taken on a Sony PVM 14N5U.
 
