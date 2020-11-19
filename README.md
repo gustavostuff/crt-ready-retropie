@@ -8,7 +8,10 @@
 
 * Do a fresh install if Retropie
 * Connect to the Internet and open the terminal (via SSH is recommended)
-* Run ```sudo wget https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/initial-setup.sh && sudo chmod +x initial-setup.sh && ./initial-setup.sh```
+* Run the next command:
+```
+sudo wget https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/initial-setup.sh && sudo chmod +x initial-setup.sh && ./initial-setup.sh
+```
 
 And that's it, you are all set to start adding games, configuring joysticks, etc.
 
