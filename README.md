@@ -2,7 +2,7 @@
 
 [![Version](http://img.shields.io/:beta-0.0.2-green.svg)](https://github.com/tavuntu/crt-ready-retropie)
 
-By default, emulated games (specially the ones in 2D) look bad when running on RetroPie in a CRT TV. By using this setup, you'll be able to make some improvements and have a much closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
+By default, emulated games (specially the ones in 2D) look bad when running on RetroPie in a CRT TV. By using this setup, you'll be able to make some improvements and have a closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
 
 Here's a comparison on a Sony PVM 14N5U.
 
@@ -40,6 +40,6 @@ If you want to know what's being done under the hood, look at `setup.sh`. In a n
 #### Notes:
 
 * This has been tested in Retropie 4.6 and 4.7.1, it should work on versions in between
-* If roms were added before this, please run ```resetromdirs``` command in RetroPie-Setup > Configuration / Tools, and then reboot
+* If roms were added before or during the process, you may need to run ```resetromdirs``` command in RetroPie-Setup > Configuration / Tools, and then reboot
 
 If you can afford something more expensive and want a much better experience, please check [this](https://www.rgb-pi.com/) out, there's probably nothing better for emulation in CRTs, at least at the time I'm writing this.
