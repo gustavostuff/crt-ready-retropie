@@ -1,8 +1,8 @@
 # crt-ready-retropie
 
-[![Version](http://img.shields.io/:beta-0.0.2-green.svg)](https://github.com/tavuntu/crt-ready-retropie)
+[![Version](http://img.shields.io/:beta-0.0.3-green.svg)](https://github.com/tavuntu/crt-ready-retropie)
 
-By default, emulated games (specially the ones in 2D) look bad when running on RetroPie in a CRT TV. By using this setup, you'll be able to make some improvements and have a closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
+By default, emulated games (specially 2D ones) don't look that good on CRTs. By using this setup, you'll be able to make some improvements and have a closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
 
 Here's a comparison on a Sony PVM 14N5U.
 
@@ -27,13 +27,13 @@ And that's it, you are all set to start adding games, configuring joysticks, etc
 
 ---
 
-If you want to know what's being done under the hood, look at `setup.sh`. In a nutshell, this is it:
+This is what you'll have right out of the box:
 
-:heavy_check_mark: A bunch of config files is downloaded
+:heavy_check_mark:  Pixel perfect rendering for nearly any game
 
-:heavy_check_mark: When unzziped, some files are added/overwritten
+:heavy_check_mark:  A custom **crt-ready** theme, simple and CRT-friendly (fonts look OK at low-res, for instance)
 
-:heavy_check_mark: A new theme is installed and set as default (based on [240p-Theme](https://github.com/PietDAmore/240p-Theme))
+:heavy_check_mark:  A custom splashscreen
 
 ---
 
