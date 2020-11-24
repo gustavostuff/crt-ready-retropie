@@ -35,6 +35,8 @@ This is what you'll have right out of the box:
 
 :heavy_check_mark:  A custom splashscreen
 
+:heavy_check_mark:  A more readable terminal font (Terminus 6x12)
+
 ---
 
 #### Notes:
