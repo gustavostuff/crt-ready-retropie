@@ -48,7 +48,7 @@ This is what you'll get right out of the box:
 
 ---
 
-#### Notes:
+#### Some notes:
 
 * Tested in Retropie 4.6 and 4.7.1 only, but it should work on similar versions
 * If roms were added before or during the process, you may need to run ```resetromdirs``` command in RetroPie-Setup > Configuration / Tools, and then reboot
