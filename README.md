@@ -34,7 +34,7 @@ curl -s https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/setup.
 
 This is what you'll have right out of the box:
 
-:heavy_check_mark:  Pixel perfect rendering for nearly any game
+:heavy_check_mark:  Pixel perfect rendering for nearly any game (this is for composite video, so don't expect super HQ graphics)
 
 :heavy_check_mark:  A custom **crt-ready** theme, simple and CRT-friendly (fonts look OK at low-res, for instance)
 
