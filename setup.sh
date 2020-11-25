@@ -56,7 +56,7 @@ if [ $1 == "snesdev" ]; then
 
   sudo mv snesdev.cfg /etc/snesdev.cfg
   cd ..
-  rm -rf SNESDev-RPi
+  sudo rm -rf SNESDev-RPi
 fi
 
 echo "Restarting system..."
