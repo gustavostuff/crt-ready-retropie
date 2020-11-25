@@ -59,6 +59,6 @@ if [ $1 == "snesdev" ]; then
   sudo rm -rf SNESDev-RPi
 fi
 
+separator
 echo "Restarting system..."
 sudo reboot
-separator
