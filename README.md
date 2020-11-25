@@ -44,7 +44,7 @@ This is what you'll have right out of the box:
 
 :heavy_check_mark:  Optional support for controllers connected to the GPIO, preconfigured for an All In One [Monster Joystick](https://monsterjoysticks.com/all-in-one-joysticks):
 
-[![joystick.png](https://i.postimg.cc/nzhP0mRT/joystick.png)](https://postimg.cc/yJ2jNDzS)
+[![joystick.png](https://i.postimg.cc/QN93DLmm/joystick.png)](https://postimg.cc/kDmZNpkR)
 
 ---
 
