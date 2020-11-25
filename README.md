@@ -42,7 +42,9 @@ This is what you'll have right out of the box:
 
 :heavy_check_mark:  A more readable terminal font (Terminus 6x12)
 
-:heavy_check_mark:  Optional support for controllers connected to the GPIO
+:heavy_check_mark:  Optional support for controllers connected to the GPIO, preconfigured for an All In One [Monster Joystick](https://monsterjoysticks.com/all-in-one-joysticks):
+
+[![monster.png](https://i.postimg.cc/nzmjtf7j/monster.png)](https://postimg.cc/ygVYF5Ls)
 
 ---
 
