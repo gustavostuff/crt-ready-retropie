@@ -50,7 +50,7 @@ This is what you'll have right out of the box:
 
 #### Notes:
 
-* Tested in Retropie 4.6 and 4.7.1 only, but should work on similar versions
+* Tested in Retropie 4.6 and 4.7.1 only, but it should work on similar versions
 * If roms were added before or during the process, you may need to run ```resetromdirs``` command in RetroPie-Setup > Configuration / Tools, and then reboot
 
-If you can afford something more expensive and want a much better experience, please check [this](https://www.rgb-pi.com/) out, there's probably nothing better for emulation in CRTs, at least at the time I'm writing this.
+If you can afford something more expensive and want a much better experience, please check [this](https://www.rgb-pi.com/) out, there's probably nothing better for emulation in CRTs.
