@@ -32,15 +32,15 @@ curl -s https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/setup.
 
 ---
 
-This is what you'll have right out of the box:
+This is what you'll get right out of the box:
 
 :heavy_check_mark:  Pixel perfect rendering for nearly any game (this is for composite video, so don't expect super HQ graphics)
 
-:heavy_check_mark:  A custom **crt-ready** theme, simple and CRT-friendly (fonts look OK at low-res, for instance)
+:heavy_check_mark:  The **crt-ready** theme I made. Simple, neat and CRT-friendly (WIP)
 
 :heavy_check_mark:  A custom splashscreen
 
-:heavy_check_mark:  A more readable terminal font (Terminus 6x12)
+:heavy_check_mark:  A more readable terminal font
 
 :heavy_check_mark:  Optional support for controllers connected to the GPIO, preconfigured for an All In One [Monster Joystick](https://monsterjoysticks.com/all-in-one-joysticks):
 
