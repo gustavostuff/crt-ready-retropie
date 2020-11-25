@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/tavuntu/crt-ready-retropie/blob/master/LICENSE.md)
 [![Version](http://img.shields.io/:beta-0.0.3-green.svg)](https://github.com/tavuntu/crt-ready-retropie)
 
-By default, emulated games (especially 2D ones) don't look too good on CRTs and this is due to issues like resolution, alignments, stretching, etc. By using this setup, you'll be able to make some improvements and have a closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
+By default, emulated games (especially 2D ones) don't look too good on CRTs and this is due to issues with resolution, alignments, stretching, etc. By using this setup, you'll be able to make some improvements and have a closer feeling to the orignal hardware. This project is based on [CRTPi-RCA](https://github.com/crtpi/CRTPi-RCA), thanks a lot to [ErantyInt](https://github.com/crtpi) and many other people who made this possible!
 
 Here's a comparison on a Sony PVM 14N5U.
 
