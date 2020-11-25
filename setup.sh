@@ -14,7 +14,7 @@ function separator () {
 
 cd /
 echo "Changed working directory to /"
-
+separator
 
 echo "Downloading crt-ready-retropie-config.tar.gz..."
 sudo wget https://github.com/tavuntu/crt-ready-retropie/raw/main/crt-ready-retropie-config.tar.gz
@@ -44,6 +44,19 @@ if [ $1 == "snesdev" ]; then
   sudo make install
   sudo make installservice
   sudo modprobe uinput
+
+  echo "# Configuration file for SNESDev, the driver for the RetroPie GPIO Adapter." > snesdev.cfg
+  
+  echo "adapter_version=1x" >> snesdev.cfg
+  echo "button_enabled=1" >> snesdev.cfg
+  echo "gamepad1_enabled=1" >> snesdev.cfg
+  echo "gamepad1_type=\"snes\"" >> snesdev.cfg
+  echo "gamepad2_enabled=1" >> snesdev.cfg
+  echo "gamepad2_type=\"snes\"" >> snesdev.cfg
+
+  sudo mv snesdev.cfg /etc/snesdev.cfg
+  cd ..
+  rm -rf SNESDev-RPi
 fi
 
 echo "Restarting system..."
