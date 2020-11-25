@@ -17,7 +17,7 @@ With crt-ready-retropie:
 
 #### Installation:
 
-* Do a fresh install of Retropie in your RB Pi if you haven't already
+* Do a fresh install of RetroPie in your RB Pi if you haven't already
 * Connect the RB Pi to your network and open the terminal (via SSH is recommended)
 * Run the next command:
 ```
