@@ -24,7 +24,7 @@ With crt-ready-retropie:
 curl -s https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/setup.sh | bash -s
 ```
 
-And that's it, you are all set to start adding games, configuring joysticks, etc. Alternatively, support for controllers via GPIO can be added ([SNESDev-RPi only](https://github.com/petrockblog/SNESDev-RPi)), just run the same command with the ```snesdev``` flag at the end:
+And that's it, you are all set to start adding games, configuring joysticks, etc. Alternatively, support for controllers via GPIO can be added ([SNESDev-RPi](https://github.com/petrockblog/SNESDev-RPi) only), just run the same command with the ```snesdev``` flag at the end:
 
 ```
 curl -s https://raw.githubusercontent.com/tavuntu/crt-ready-retropie/main/setup.sh | bash -s snesdev
